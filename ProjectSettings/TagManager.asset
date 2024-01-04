@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Value
+  - Fall
+  - Sheet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Ladder
+  - Player
+  - SheetNoPlayerTouch
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1421962553
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: EquationSheet
+    uniqueID: 1880148695
+    locked: 0
+  - name: TopButtons
+    uniqueID: 414434053
+    locked: 0
